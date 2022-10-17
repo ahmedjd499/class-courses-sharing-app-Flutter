@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "57853324355",
+    "project_id": "clubhouse-12c0f",
+    "storage_bucket": "clubhouse-12c0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57853324355:android:35d1a342df70fa69ea38f6",
+        "android_client_info": {
+          "package_name": "com.example.club_house"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57853324355-9ijo2n33dq3hirarhs1ee66k91k28lqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKMn4sTRsCyOsRXMtoIZGvwYZwZBdU7cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57853324355-9ijo2n33dq3hirarhs1ee66k91k28lqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57853324355:android:8ae5606ac6dfa718ea38f6",
+        "android_client_info": {
+          "package_name": "com.example.clubhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57853324355-9ijo2n33dq3hirarhs1ee66k91k28lqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKMn4sTRsCyOsRXMtoIZGvwYZwZBdU7cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57853324355-9ijo2n33dq3hirarhs1ee66k91k28lqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
